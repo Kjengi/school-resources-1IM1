@@ -1,0 +1,10 @@
+{
+"tittel" : "klassa",
+"gitarer" : [
+ { "navn" : "Patrick", "dato" : "13/09/2000" },
+ { "navn" : "Antonia", "dato" : "11/04/2005" }
+ { "navn" : "Aaron Joshua Victor", "dato" : "01/13/2003" },
+ { "navn" : "Isak", "dato" : "22/10/2005" }
+ { "navn" : "Magnus", "dato" : "12/01/2005" }
+    ]
+ }
